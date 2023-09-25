@@ -1,0 +1,21 @@
+{
+  "name": "neon-nightmare",
+  "displayName": "Neon Nightmare",
+  "description": "Awesome VSCode Dark Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Nightmare",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Nightmare-color-theme.json"
+      }
+    ]
+  }
+}
